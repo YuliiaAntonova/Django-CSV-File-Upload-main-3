@@ -7,4 +7,4 @@ Step 2 : $ python manage.py migrate
 
 Step 3: Create the super user using $ python manage.py createsuperuser
 
-Step 4: python manage.py runserver
+Step 4: $ python manage.py runserver
